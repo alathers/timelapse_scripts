@@ -1,0 +1,2 @@
+*/10 * * * * /home/alathers/bin/timelapse.sh /home/alathers/TimeLapse/Paris/AveDItalie/picam
+*/2 * * * * /home/alathers/bin/timelapse-usb.sh /home/alathers/TimeLapse/Paris/AveDItalie/usbcam
