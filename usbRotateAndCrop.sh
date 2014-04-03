@@ -5,7 +5,7 @@
 #      example is seamingly more accurate for the earlier images.  Items taken in March don't seem to have the same borders
 for h in $(ls -1 *jpg); do 
 	file=`basename $h .jpg`
-	if [ ~ -d rotated ]; then 
+	if [ ! -d rotated ]; then 
 		mkdir rotated
 		mkdir cropped
 	fi
