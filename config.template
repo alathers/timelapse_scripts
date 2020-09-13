@@ -1,0 +1,21 @@
+# Executables
+rsync_path='/usr/bin/rsync'
+
+# Credentials
+remoteuser=
+
+# Hosts
+remotehost=
+
+
+# FileSystem Paths
+SENDER_CRONFILE_PATH='/etc/cron.d/crontab.pi-bit'
+local_filepath='/home/pi/images/'
+remotepath=
+
+
+# Config
+cron_time_string="0,10,20,30,40,50 * * * *"
+
+
+

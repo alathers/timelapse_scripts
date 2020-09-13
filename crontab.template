@@ -1,0 +1,8 @@
+
+# This job should transfer files off-host
+## On slow connections it can cause pretty bad backups
+CRON_TIME_STRING (RSYNC_PATH --remove-source-files --progress --stats -rltDv LOCAL_PATH/* REMOTE_USER@REMOTE_HOST)
+
+
+## Do I need some form of cleanup script?
+#55 * * * * /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh

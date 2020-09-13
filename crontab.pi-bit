@@ -1,2 +1,0 @@
-0,10,20,30,40,50 * * * * (/usr/bin/rsync --remove-source-files --progress --stats -rltDv 192.168.1.101:TimeLapse /mnt/AnselAdams/ && echo "last sync at `date`" > /home/alathers/snapsync.log)
-55 * * * * /home/alathers/bin/timelapse-housekeeping.sh
