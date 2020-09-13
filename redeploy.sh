@@ -1,5 +1,8 @@
 #!/bin/bash
 
+pushd /home/pi/src/timelapse_scripts
+
+
 . ./config
 
 
@@ -10,6 +13,7 @@ behind=$?
 if [ ${behind} -eq 0 ]; then
 	echo "changes made, pulling update"
 	git pull
+
 else
 	echo "no updates"
 	exit
