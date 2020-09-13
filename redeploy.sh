@@ -9,10 +9,10 @@
 
 # Check github for updates
 git remote update
-
-if $( git status -uno | egrep 'Your branch is behind'); then
+git status -uno | egrep 'Your branch is behind'
+behind=$?
+if [ ${behind} -eq 0 ]; then
 	echo "changes made, pulling update"
-	behind=1
 	git pull
 else
 	echo "no updates"
