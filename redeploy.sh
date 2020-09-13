@@ -15,6 +15,7 @@ if $( git status -uno | egrep 'Your branch is behind'); then
 	behind=1
 	git pull
 else
+	echo "no updates"
 	exit
 fi
 
