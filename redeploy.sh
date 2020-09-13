@@ -3,10 +3,6 @@
 . ./config
 
 
-
-
-
-
 # Check github for updates
 git remote update
 git status -uno | egrep 'Your branch is behind'
@@ -18,10 +14,6 @@ else
 	echo "no updates"
 	exit
 fi
-
-
-
-
 
 
 #  Pull down updates
