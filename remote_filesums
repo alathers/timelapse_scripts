@@ -1,14 +1,11 @@
-ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
-4326d3985d45ac15e7a0771dcffea3d6  /home/pi/src/timelapse_scripts/config
-eeae549e17022060ef5b7bdd1792f352  /home/pi/src/timelapse_scripts/config.template
-0dc0eae240018212c8848627b93348f9  /home/pi/src/timelapse_scripts/crontab.snap
-e14dd10580fe1c3d20ea0f177e3c87a7  /home/pi/src/timelapse_scripts/crontab.template
-8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
-46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
-a549859642fb2aa3c313ec8b43f19532  /home/pi/src/timelapse_scripts/README.md
-d6d676fb9382137e6b81552f9ab451df  /home/pi/src/timelapse_scripts/redeploy.sh
-739623791adeac869e8b019d865f2ede  /home/pi/src/timelapse_scripts/snapshot.sh
-7b17ee40bd09bd5f87a19ba0a4a36f2c  /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
-5abb7948dc6f46dab7d793fc250f5aed  /home/pi/src/timelapse_scripts/timelapse.sh
-3a5e51c0972f410ea8cb68132f913c07  /home/pi/src/timelapse_scripts/timelapse-usb.sh
-f64a4a45211198ca8a4396b32030c7f6  /home/pi/src/timelapse_scripts/usbRotateAndCrop.sh
+---
+0
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/root       118G  3.3G  110G   3% /
+devtmpfs        181M     0  181M   0% /dev
+tmpfs           185M     0  185M   0% /dev/shm
+tmpfs           185M  7.4M  178M   4% /run
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           185M     0  185M   0% /sys/fs/cgroup
+/dev/mmcblk0p1  253M   53M  200M  21% /boot
+tmpfs            37M     0   37M   0% /run/user/1000
