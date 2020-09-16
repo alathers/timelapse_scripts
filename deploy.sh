@@ -25,7 +25,7 @@ function detemplate_snapshot_cron {
 
 function detemplate_deploy_cron {
 	deploy_script="${timelapse_src}/deploy.sh"
-	cat deploy_crontab.template | sed "s|CRON_TIME_STRING|${snapshot_cron_time_string}|" | \
+	sed "s|CRON_TIME_STRING|${snapshot_cron_time_string}|" deploy_cron.template | \
 		sed "s|DEPLOY_SCRIPT_PATH|${deploy_script}|" > timelapse-deploycron 
 }
 
@@ -41,7 +41,7 @@ function generate_report {
 
 	${md5deep} -r ${timelapse_src}/* > remote_filesums
 	echo "---" >> remote_filesums
-	find images -type f | wc -l >> remote_filesums
+	find ${local_filepath} -type f | wc -l >> remote_filesums
 	df -hl >> remote_filesums
 }
 
