@@ -4,22 +4,22 @@ acb823f8da98a327346700f94096b5c4  /home/pi/src/timelapse_scripts/config.template
 64badbb9d14998b3d4ddf182fb4e1f03  /home/pi/src/timelapse_scripts/copy_crontab.template
 0dc0eae240018212c8848627b93348f9  /home/pi/src/timelapse_scripts/crontab.snap
 7fe69e607c5a52c42dcf1fa356dad8da  /home/pi/src/timelapse_scripts/deploy_cron.template
-f2d4651e7ba8b510e846c8b0cee3a650  /home/pi/src/timelapse_scripts/deploy.sh
+7b676585371f4401020de4e2ce88c298  /home/pi/src/timelapse_scripts/deploy.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
 d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/README.md
-d34e5198cd9c7265d1354a6c67830594  /home/pi/src/timelapse_scripts/remote_filesums
+cc328e839cf9c4434f8f63ebff0543a7  /home/pi/src/timelapse_scripts/remote_filesums
 231e518f83fa0908ee5e0fd241b1924b  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
 5b2349a878fd936e4490ab877bab958c  /home/pi/src/timelapse_scripts/timelapse-copycron
-fa8ebbe4c2d8d74ecab2b3a544a44786  /home/pi/src/timelapse_scripts/timelapse-deploycron
+28ad605a038978327d21c6dc3d4e8161  /home/pi/src/timelapse_scripts/timelapse-deploycron
 7b17ee40bd09bd5f87a19ba0a4a36f2c  /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
 5abb7948dc6f46dab7d793fc250f5aed  /home/pi/src/timelapse_scripts/timelapse.sh
 388caa72bd3d33aefda515b157b512dc  /home/pi/src/timelapse_scripts/timelapse-snapshotcron
 3a5e51c0972f410ea8cb68132f913c07  /home/pi/src/timelapse_scripts/timelapse-usb.sh
 f64a4a45211198ca8a4396b32030c7f6  /home/pi/src/timelapse_scripts/usbRotateAndCrop.sh
 ---
-3
+2
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root       118G  3.3G  110G   3% /
 devtmpfs        181M     0  181M   0% /dev
