@@ -1,18 +1,18 @@
-Tue 15 Sep 2020 11:27:29 PM HST
+Tue 15 Sep 2020 11:28:46 PM HST
 ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
-9a540ba9b899be0a667ff3c6fd8adb37  /home/pi/src/timelapse_scripts/config
+c1f19362fcec2450e852e20d4ed526a8  /home/pi/src/timelapse_scripts/config
 f8a8473805143a7e96ad6f7a65e75a1e  /home/pi/src/timelapse_scripts/config.generic
 455f6e2e9b1e02129ac469c1a3d77e20  /home/pi/src/timelapse_scripts/copy_crontab.template
 0dc0eae240018212c8848627b93348f9  /home/pi/src/timelapse_scripts/crontab.snap
 8e3bda3ac95c0bee87fd93d1030ea53e  /home/pi/src/timelapse_scripts/deploy_cron.template
-6db0611bf22f022a0d64f76cae5dd8db  /home/pi/src/timelapse_scripts/deploy.sh
+6de71787aa03a2fe64017b16f669a51b  /home/pi/src/timelapse_scripts/deploy.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
 d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/README.md
-165f2cee3771ebd950aaff48b7e71233  /home/pi/src/timelapse_scripts/remote_filesums
+fd3ce177b15ecd9e213109e3dd5b54a7  /home/pi/src/timelapse_scripts/remote_filesums
 2a657bbea2721e2343392adc6cb5722a  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
-917c1785629f9dcc45ca8914494cd7fc  /home/pi/src/timelapse_scripts/timelapse-copycron
+4445eddd000a8638d77555d1960b8a7b  /home/pi/src/timelapse_scripts/timelapse-copycron
 54bcb14c11de39cfac975fb07815e450  /home/pi/src/timelapse_scripts/timelapse-deploycron
 7b17ee40bd09bd5f87a19ba0a4a36f2c  /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
 5abb7948dc6f46dab7d793fc250f5aed  /home/pi/src/timelapse_scripts/timelapse.sh
@@ -20,7 +20,7 @@ befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
 3a5e51c0972f410ea8cb68132f913c07  /home/pi/src/timelapse_scripts/timelapse-usb.sh
 f64a4a45211198ca8a4396b32030c7f6  /home/pi/src/timelapse_scripts/usbRotateAndCrop.sh
 ---
-4
+5
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root       118G  3.3G  110G   3% /
 devtmpfs        181M     0  181M   0% /dev
