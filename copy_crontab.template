@@ -1,7 +1,7 @@
 
 # This job should transfer files off-host
 ## On slow connections it can cause pretty bad backups
-CRON_TIME_STRING pi (RSYNC_PATH --remove-source-files --progress --stats -rltDv  -e 'ssh -p PORT' LOCAL_PATH* REMOTE_USER@REMOTE_HOST:)
+CRON_TIME_STRING pi (RSYNC_PATH --remove-source-files --progress --stats -rltDv  -e 'ssh -p PORT' LOCAL_PATH* REMOTE_USER@REMOTE_HOST:) >> /var/log/syslog
 
 # HULK SMASH rsync during evenings; they can resume some other time
-CRON_KILL_TIME_STRING PKILL -9 rsync
+CRON_KILL_TIME_STRING PKILL -9 rsync >> /var/log/syslog

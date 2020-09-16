@@ -1,4 +1,4 @@
 # This job should snap a single photo
 
-CRON_TIME_STRING pi SNAPSHOT_SCRIPT_PATH
+CRON_TIME_STRING pi SNAPSHOT_SCRIPT_PATH >> /var/log/syslog
 
