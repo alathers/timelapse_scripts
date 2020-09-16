@@ -1,5 +1,5 @@
-Wed 16 Sep 2020 07:37:46 AM HST
-50be00e36d0b542695b022dd9be3fbc0  /home/pi/src/timelapse_scripts/checkin.sh
+Wed 16 Sep 2020 07:44:02 AM HST
+eb71d56dfa72fdeabe27a7e2638998c9  /home/pi/src/timelapse_scripts/checkin.sh
 ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
 3c0cbb29491a2779abd713f2a2542f41  /home/pi/src/timelapse_scripts/config
 779cffc421ed0952c8def620e8794d31  /home/pi/src/timelapse_scripts/config.generic
@@ -10,8 +10,8 @@ ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
 6d7cb3da27d58176c50de38e07d5fe69  /home/pi/src/timelapse_scripts/README.md
-64217d3828bf5efef2d9a4296507b9ad  /home/pi/src/timelapse_scripts/remote_filesums
-1dce1f487991bc25db8b8ba648fbd6a5  /home/pi/src/timelapse_scripts/runlog
+77dbeb085675e276f14aed8f73efd56b  /home/pi/src/timelapse_scripts/remote_filesums
+d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/runlog
 26380729f9af23e2809792b83010d9f5  /home/pi/src/timelapse_scripts/runlog_update_cron.template
 017ad7e69f8cb34da30c1166dba0797e  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
@@ -24,7 +24,7 @@ fea6a66d8a707decbccd0b997671025b  /home/pi/src/timelapse_scripts/timelapse-snaps
 3a5e51c0972f410ea8cb68132f913c07  /home/pi/src/timelapse_scripts/timelapse-usb.sh
 f64a4a45211198ca8a4396b32030c7f6  /home/pi/src/timelapse_scripts/usbRotateAndCrop.sh
 ---
-4
+2
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root       118G  3.2G  110G   3% /
 devtmpfs        181M     0  181M   0% /dev
