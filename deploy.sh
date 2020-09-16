@@ -39,8 +39,9 @@ function deploy_cronfiles {
 }
 
 function generate_report {
+	$(date) > remote_filesums
 
-	${md5deep} -r ${timelapse_src}/* > remote_filesums
+	${md5deep} -r ${timelapse_src}/* >> remote_filesums
 	echo "---" >> remote_filesums
 	find ${local_filepath} -type f | wc -l >> remote_filesums
 	df -hl >> remote_filesums
