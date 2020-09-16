@@ -42,7 +42,7 @@ function detemplate_deploy_cron {
 
 function detemplate_runlog_cron {
 	checkin_script="${timelapse_src}/checkin.sh"
-	sed "s|CRON_TIME_STRING|${run_cron_time_string}|" runlog_update_cron.templte | \
+	sed "s|CRON_TIME_STRING|${run_cron_time_string}|" runlog_update_cron.template | \
 		sed "s|LOG_PATH|${timelapse_src}|g" | \
 		sed "s|CHECKIN_SCRIPT_PATH|${checkin_script}|" > timelapse-checkincron 
 }
