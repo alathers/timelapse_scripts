@@ -1,22 +1,23 @@
-Wed 16 Sep 2020 06:50:07 AM HST
+Wed 16 Sep 2020 06:52:30 AM HST
+fbd82d8d6c53322f5e44222e929a59e3  /home/pi/src/timelapse_scripts/checkin.sh
 ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
 3c0cbb29491a2779abd713f2a2542f41  /home/pi/src/timelapse_scripts/config
 f8a8473805143a7e96ad6f7a65e75a1e  /home/pi/src/timelapse_scripts/config.generic
-18d384b76f587659c8a731f1585c5d34  /home/pi/src/timelapse_scripts/copy_crontab.template
+720fab3df8a397a9de3e1393a43b3c2d  /home/pi/src/timelapse_scripts/copy_crontab.template
 0dc0eae240018212c8848627b93348f9  /home/pi/src/timelapse_scripts/crontab.snap
-29447f41f400a73b9e57f97e381ed619  /home/pi/src/timelapse_scripts/deploy_cron.template
-6db0611bf22f022a0d64f76cae5dd8db  /home/pi/src/timelapse_scripts/deploy.sh
+9bda37d22e2b10726c543f3a24b3519b  /home/pi/src/timelapse_scripts/deploy_cron.template
+d9060312dc5b09f8315dee86228daa9f  /home/pi/src/timelapse_scripts/deploy.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
 6d7cb3da27d58176c50de38e07d5fe69  /home/pi/src/timelapse_scripts/README.md
-589650f8aa21c045da3bedcee9339c24  /home/pi/src/timelapse_scripts/remote_filesums
-36ca6cf1a41f41f911a23e7db6028a34  /home/pi/src/timelapse_scripts/snapshot_crontab.template
+8ce6f94524f58c9124f535e07838aacf  /home/pi/src/timelapse_scripts/remote_filesums
+017ad7e69f8cb34da30c1166dba0797e  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
-55b2182957d0eb1d0f2127d5416bbf2d  /home/pi/src/timelapse_scripts/timelapse-copycron
-b3cad555b6436e8951e68337ea847407  /home/pi/src/timelapse_scripts/timelapse-deploycron
+af5cae9c0c233657b9efe8c6d418b5d9  /home/pi/src/timelapse_scripts/timelapse-copycron
+d2e4d5afd9af1758c15ea4a82b80cb5b  /home/pi/src/timelapse_scripts/timelapse-deploycron
 7b17ee40bd09bd5f87a19ba0a4a36f2c  /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
 5abb7948dc6f46dab7d793fc250f5aed  /home/pi/src/timelapse_scripts/timelapse.sh
-2be7f2e105eecbabad3c9856a75a66ca  /home/pi/src/timelapse_scripts/timelapse-snapshotcron
+0002666aef4911f7f8fb509e09b364da  /home/pi/src/timelapse_scripts/timelapse-snapshotcron
 3a5e51c0972f410ea8cb68132f913c07  /home/pi/src/timelapse_scripts/timelapse-usb.sh
 f64a4a45211198ca8a4396b32030c7f6  /home/pi/src/timelapse_scripts/usbRotateAndCrop.sh
 ---
