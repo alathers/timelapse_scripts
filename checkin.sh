@@ -8,6 +8,17 @@ pushd ${timelapse_src}
 
 . ./config
 
+echo "------ " >> runlog
+echo "" >> runlog
+echo "" >> runlog
+sudo /bin/egrep ERROR /var/log/syslog >> runlog
+echo "" >> runlog
+echo "" >> runlog
+echo "------ " >> runlog
+
+
+
+
 git pull
 git add runlog
 git commit -m "Updating Runlog"
