@@ -2,5 +2,3 @@
 
 CRON_TIME_STRING pi SNAPSHOT_SCRIPT_PATH
 
-## Do I need some form of cleanup script?
-#55 * * * * /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
