@@ -1,3 +1,3 @@
 # This job should test for updates and auto deploy
 
-CRON_TIME_STRING pi DEPLOY_SCRIPT_PATH >> /var/log/syslog
+CRON_TIME_STRING pi DEPLOY_SCRIPT_PATH >> LOG_PATH/runlog

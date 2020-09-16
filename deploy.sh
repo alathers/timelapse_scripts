@@ -18,6 +18,7 @@ function detemplate_copy_cron {
 		sed "s|CRON_KILL_TIME_STRING|${kill_copy_time_string}|" | \
 		sed "s|PKILL|${pkill}|" | \
 		sed "s|PORT|${remoteport}|" | \
+		sed "s|LOG_PATH|${timelapse_src}|g" | \
 		sed "s|REMOTE_HOST|${remotehost}|" >  timelapse-copycron 
 
 }
