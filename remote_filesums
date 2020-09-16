@@ -7,12 +7,11 @@ efcbace095f3afe7192d90233d77f681  /home/pi/src/timelapse_scripts/deploy_cron.tem
 b28d640ac1b2e03297d5c4305de738c0  /home/pi/src/timelapse_scripts/deploy.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
-d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/README.md
-79805577f2700fb727050d57ad1f8c98  /home/pi/src/timelapse_scripts/remote_filesums
+bd3504335ff6517e259abd9c7a4d1c5f  /home/pi/src/timelapse_scripts/remote_filesums
 a2755e82bf5dc04f2082851d79b18569  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
 f2ed9a5b2ecbcddd2d43d147dd2ed015  /home/pi/src/timelapse_scripts/timelapse-copycron
-d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/timelapse-deploycron
+aba1dc5cb82219b9d0db0de238ee9b5c  /home/pi/src/timelapse_scripts/timelapse-deploycron
 7b17ee40bd09bd5f87a19ba0a4a36f2c  /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
 5abb7948dc6f46dab7d793fc250f5aed  /home/pi/src/timelapse_scripts/timelapse.sh
 87796c828c67f179cfc8cb0c1d0337bc  /home/pi/src/timelapse_scripts/timelapse-snapshotcron
