@@ -1,5 +1,6 @@
 # Executables
 rsync_path='/usr/bin/rsync'
+md5deep='/usr/bin/md5deep'
 
 # Credentials
 remoteuser=
@@ -7,15 +8,19 @@ remoteuser=
 # Hosts
 remotehost=
 
-
 # FileSystem Paths
-SENDER_CRONFILE_PATH='/etc/cron.d/crontab.pi-bit'
+SENDER_CRONFILE_PATH='/etc/cron.d/timelapse-copycron'
+SNAPSHOT_CRONFILE_PATH='/etc/cron.d/timelapse-snapshotcron'
+DEPLOY_CRONFILE_PATH='/etc/cron.d/timelapse-deploycron'
 local_filepath='/home/pi/images/'
 remotepath=
 
 
-# Config
-cron_time_string="0,10,20,30,40,50 * * * *"
+# Copy Config
+copy_cron_time_string="0,10,20,30,40,50 * * * *"
 
+# Snapshot config
+snapshot_cron_time_string="*/2 * * * *"
 
-
+# Deploy cron
+deploy_cron_time_string="*/5 * * * *"
