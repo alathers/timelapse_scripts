@@ -1,17 +1,18 @@
-Tue 15 Sep 2020 11:19:26 PM HST
+Tue 15 Sep 2020 11:27:29 PM HST
 ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
 9a540ba9b899be0a667ff3c6fd8adb37  /home/pi/src/timelapse_scripts/config
-46f40257886fd97f17f65496849bc493  /home/pi/src/timelapse_scripts/config.generic
-444197e90e9746b62ba842617387ee95  /home/pi/src/timelapse_scripts/copy_crontab.template
+f8a8473805143a7e96ad6f7a65e75a1e  /home/pi/src/timelapse_scripts/config.generic
+455f6e2e9b1e02129ac469c1a3d77e20  /home/pi/src/timelapse_scripts/copy_crontab.template
 0dc0eae240018212c8848627b93348f9  /home/pi/src/timelapse_scripts/crontab.snap
 8e3bda3ac95c0bee87fd93d1030ea53e  /home/pi/src/timelapse_scripts/deploy_cron.template
-08ea1a731741a1b0bd4ad6de425dcb8a  /home/pi/src/timelapse_scripts/deploy.sh
+6db0611bf22f022a0d64f76cae5dd8db  /home/pi/src/timelapse_scripts/deploy.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
-90a0bda1d81ab9a3c58fc023d69bfcb9  /home/pi/src/timelapse_scripts/remote_filesums
+d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/README.md
+165f2cee3771ebd950aaff48b7e71233  /home/pi/src/timelapse_scripts/remote_filesums
 2a657bbea2721e2343392adc6cb5722a  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
-ddb6b56c07f919f8a583bd6433a929ed  /home/pi/src/timelapse_scripts/timelapse-copycron
+917c1785629f9dcc45ca8914494cd7fc  /home/pi/src/timelapse_scripts/timelapse-copycron
 54bcb14c11de39cfac975fb07815e450  /home/pi/src/timelapse_scripts/timelapse-deploycron
 7b17ee40bd09bd5f87a19ba0a4a36f2c  /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
 5abb7948dc6f46dab7d793fc250f5aed  /home/pi/src/timelapse_scripts/timelapse.sh
@@ -19,7 +20,7 @@ ddb6b56c07f919f8a583bd6433a929ed  /home/pi/src/timelapse_scripts/timelapse-copyc
 3a5e51c0972f410ea8cb68132f913c07  /home/pi/src/timelapse_scripts/timelapse-usb.sh
 f64a4a45211198ca8a4396b32030c7f6  /home/pi/src/timelapse_scripts/usbRotateAndCrop.sh
 ---
-7
+4
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root       118G  3.3G  110G   3% /
 devtmpfs        181M     0  181M   0% /dev
