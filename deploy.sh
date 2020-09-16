@@ -27,12 +27,14 @@ function detemplate_copy_cron {
 function detemplate_snapshot_cron {
 	snapshot_script="${timelapse_src}/snapshot.sh"
 	sed "s|CRON_TIME_STRING|${snapshot_cron_time_string}|" snapshot_crontab.template | \
+		sed "s|LOG_PATH|${timelapse_src}|g" | \
 		sed "s|SNAPSHOT_SCRIPT_PATH|${snapshot_script}|" >  timelapse-snapshotcron 
 }
 
 function detemplate_deploy_cron {
 	deploy_script="${timelapse_src}/deploy.sh"
 	sed "s|CRON_TIME_STRING|${deploy_cron_time_string}|" deploy_cron.template | \
+		sed "s|LOG_PATH|${timelapse_src}|g" | \
 		sed "s|DEPLOY_SCRIPT_PATH|${deploy_script}|" > timelapse-deploycron 
 }
 
