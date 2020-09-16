@@ -4,7 +4,10 @@ timelapse_src='/home/pi/src/timelapse_scripts'
 
 pushd ${timelapse_src}
 
+. ./config.generic
+
 . ./config
+
 
 
 function detemplate_copy_cron {
