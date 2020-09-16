@@ -1,6 +1,7 @@
 # Executables
 rsync_path='/usr/bin/rsync'
 md5deep='/usr/bin/md5deep'
+pkill='/usr/bin/pkill'
 
 # Credentials
 remoteuser=
@@ -18,9 +19,11 @@ remotepath=
 
 # Copy Config
 copy_cron_time_string="0,10,20,30,40,50 * * * *"
+# make sure to kill sync from 8pm-12:55am
+kill_copy_time_string='*/5 0,20-23 * * *'
 
 # Snapshot config
-snapshot_cron_time_string="*/2 * * * *"
+snapshot_cron_time_string="*/2 6-18 * * *"
 
 # Deploy cron
 deploy_cron_time_string="*/5 * * * *"

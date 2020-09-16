@@ -15,6 +15,8 @@ function detemplate_copy_cron {
 		sed "s|RSYNC_PATH|${rsync_path}|" | \
 		sed "s|LOCAL_PATH|${local_filepath}|" | \
 		sed "s/REMOTE_USER/${remoteuser}/" | \
+		sed "s/CRON_KILL_TIME_STRING/${kill_copy_time_string}/" | \
+		sed "s/PKILL/${pkill}/" | \
 		sed "s/REMOTE_HOST/${remotehost}/" >  timelapse-copycron 
 
 }

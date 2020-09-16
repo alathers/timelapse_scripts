@@ -3,6 +3,8 @@
 ## On slow connections it can cause pretty bad backups
 CRON_TIME_STRING pi (RSYNC_PATH --remove-source-files --progress --stats -rltDv LOCAL_PATH* REMOTE_USER@REMOTE_HOST:)
 
+# HULK SMASH rsync during evenings; they can resume some other time
+CRON_KILL_TIME_STRING PKILL -9 rsync
 
 ## Do I need some form of cleanup script?
 #55 * * * * /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
