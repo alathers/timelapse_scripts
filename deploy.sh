@@ -44,7 +44,7 @@ function deploy_cronfiles {
 }
 
 function generate_report {
-	$(date) > remote_filesums
+	echo $(date) > remote_filesums
 
 	${md5deep} -r ${timelapse_src}/* >> remote_filesums
 	echo "---" >> remote_filesums
