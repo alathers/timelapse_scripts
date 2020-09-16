@@ -7,7 +7,8 @@ efcbace095f3afe7192d90233d77f681  /home/pi/src/timelapse_scripts/deploy_cron.tem
 61f69d9aabef59f01c9ad6e7e619aaf9  /home/pi/src/timelapse_scripts/deploy.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
-e84b63adf8c2572c1bf0dee0ce0c20ec  /home/pi/src/timelapse_scripts/remote_filesums
+d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/README.md
+fb8b04b18338f9680042175c0fd05990  /home/pi/src/timelapse_scripts/remote_filesums
 a2755e82bf5dc04f2082851d79b18569  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
 f2ed9a5b2ecbcddd2d43d147dd2ed015  /home/pi/src/timelapse_scripts/timelapse-copycron
