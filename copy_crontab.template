@@ -1,7 +1,7 @@
 
 # This job should transfer files off-host
 ## On slow connections it can cause pretty bad backups
-CRON_TIME_STRING pi (RSYNC_PATH --remove-source-files --progress --stats -rltDv LOCAL_PATH/* REMOTE_USER@REMOTE_HOST)
+CRON_TIME_STRING pi (RSYNC_PATH --remove-source-files --progress --stats -rltDv LOCAL_PATH* REMOTE_USER@REMOTE_HOST:)
 
 
 ## Do I need some form of cleanup script?
