@@ -1,6 +1,7 @@
 #!/bin/bash
 
 timelapse_src='/home/pi/src/timelapse_scripts'
+deploy_script="${timelapse_src}/deploy.sh"
 
 pushd ${timelapse_src}
 
@@ -33,7 +34,6 @@ function detemplate_snapshot_cron {
 }
 
 function detemplate_deploy_cron {
-	deploy_script="${timelapse_src}/deploy.sh"
 	sed "s|CRON_TIME_STRING|${deploy_cron_time_string}|" deploy_cron.template | \
 		sed "s|LOG_PATH|${timelapse_src}|g" | \
 		sed "s|DEPLOY_SCRIPT_PATH|${deploy_script}|" > timelapse-deploycron 
@@ -80,13 +80,17 @@ if [ ${behind} -eq 0 ] || [ ${deploy_force} -eq 1 ]; then
 	detemplate_snapshot_cron
 	detemplate_deploy_cron
 	detemplate_runlog_cron
-	
+
 	generate_report
 	deploy_cronfiles
 	# remove them then push the sums!
 	git add remote_filesums
 	git commit -m "Checksums from $(hostname) on $(date)"
 	git push
+
+	# Actually try to force myself to run twice whenever I run!
+	${deploy_script} 1
+
 
 else
 	echo "no updates"
