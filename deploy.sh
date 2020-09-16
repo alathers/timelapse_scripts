@@ -34,6 +34,7 @@ function deploy_cronfiles {
 	sudo mv timelapse-copycron ${SENDER_CRONFILE_PATH}
 	sudo mv timelapse-snapshotcron ${SENDER_CRONFILE_PATH}
 	sudo mv timelapse-deploycron ${DEPLOY_CRONFILE_PATH}
+	sudo chown 0755 /etc/cron.d/*
 }
 
 function generate_report {
@@ -57,7 +58,7 @@ if [ ${behind} -eq 0 ]; then
 	detemplate_snapshot_cron
 	detemplate_deploy_cron
 	generate_report
-	sudo deploy_cronfiles
+	deploy_cronfiles
 	# remove them then push the sums!
 	git add remote_filesums
 	git commit -m "Checksums from $(hostname) on $(date)"
