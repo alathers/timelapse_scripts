@@ -35,7 +35,7 @@ function deploy_cronfiles {
 	sudo mv timelapse-snapshotcron ${SNAPSHOT_CRONFILE_PATH}
 	sudo mv timelapse-deploycron ${DEPLOY_CRONFILE_PATH}
 	sudo chmod 0755 /etc/cron.d/*
-	sudo chown pi:pi /etc/cron.d/*
+	sudo chown root:root /etc/cron.d/*
 }
 
 function generate_report {
