@@ -4,10 +4,10 @@ ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
 444197e90e9746b62ba842617387ee95  /home/pi/src/timelapse_scripts/copy_crontab.template
 0dc0eae240018212c8848627b93348f9  /home/pi/src/timelapse_scripts/crontab.snap
 8e3bda3ac95c0bee87fd93d1030ea53e  /home/pi/src/timelapse_scripts/deploy_cron.template
-b150009e6966c54f49ceec44a5181f4f  /home/pi/src/timelapse_scripts/deploy.sh
+c3de421c9f3a52bb781bd045b2549bd7  /home/pi/src/timelapse_scripts/deploy.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
-5383c57a3dee78ab6036840e1cbd64b1  /home/pi/src/timelapse_scripts/remote_filesums
+3e91f7e3ba4a96e9753da51969cfde1a  /home/pi/src/timelapse_scripts/remote_filesums
 2a657bbea2721e2343392adc6cb5722a  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
 d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/timelapse-copycron
@@ -18,7 +18,7 @@ d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/timelapse-copyc
 3a5e51c0972f410ea8cb68132f913c07  /home/pi/src/timelapse_scripts/timelapse-usb.sh
 f64a4a45211198ca8a4396b32030c7f6  /home/pi/src/timelapse_scripts/usbRotateAndCrop.sh
 ---
-5
+6
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/root       118G  3.3G  110G   3% /
 devtmpfs        181M     0  181M   0% /dev
