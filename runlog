@@ -1,48 +1,0 @@
-~/src/timelapse_scripts ~
-Fetching origin
-sending incremental file list
-hawaii-20200916-07-20-01.jpg
-         32,768   0%    0.00kB/s    0:00:00        1,572,864  34%    1.46MB/s    0:00:02        2,719,744  58%    1.27MB/s    0:00:01  no updates
-      3,801,088  82%    1.19MB/s    0:00:00        4,617,528 100%    1.14MB/s    0:00:03 (xfr#1, to-chk=4/5)
-hawaii-20200916-07-22-01.jpg
-         32,768   0%   38.19kB/s    0:01:59          360,448   7%  347.14kB/s    0:00:12        1,605,632  34%  767.12kB/s    0:00:03        2,621,440  56%  815.03kB/s    0:00:02        3,178,496  68%  748.67kB/s    0:00:01        4,607,128 100%  903.81kB/s    0:00:04 (xfr#2, to-chk=3/5)
-hawaii-20200916-07-24-01.jpg
-         32,768   0%   34.52kB/s    0:02:12           65,536   1%   57.40kB/s    0:01:18          786,432  17%  360.39kB/s    0:00:10        1,638,400  35%  502.83kB/s    0:00:05        2,916,352  63%  679.71kB/s    0:00:02        3,244,032  70%  746.51kB/s    0:00:01        4,589,423 100%  721.48kB/s    0:00:06 (xfr#3, to-chk=2/5)
-hawaii-20200916-07-26-01.jpg
-         32,768   0%   33.68kB/s    0:02:16           65,536   1%   61.30kB/s    0:01:14          393,216   8%  186.05kB/s    0:00:22        1,867,776  40%  587.82kB/s    0:00:04        2,260,992  48%  536.44kB/s    0:00:04        3,604,480  78%  835.79kB/s    0:00:01        4,615,854 100%  730.93kB/s    0:00:06 (xfr#4, to-chk=1/5)
-hawaii-20200916-07-28-01.jpg
-         32,768   0%   32.10kB/s    0:02:22           65,536   1%   58.61kB/s    0:01:17          753,664  16%  347.99kB/s    0:00:11        1,998,848  43%  621.46kB/s    0:00:04        2,850,816  62%  670.68kB/s    0:00:02        3,866,624  84%  914.51kB/s    0:00:00        4,594,833 100%  795.03kB/s    0:00:05 (xfr#5, to-chk=0/5)
-sender file already removed: hawaii-20200916-07-20-01.jpg
-sender file already removed: hawaii-20200916-07-22-01.jpg
-sender file already removed: hawaii-20200916-07-24-01.jpg
-sender file already removed: hawaii-20200916-07-26-01.jpg
-sender file already removed: hawaii-20200916-07-28-01.jpg
-
-Number of files: 5 (reg: 5)
-Number of created files: 5 (reg: 5)
-Number of regular files transferred: 5
-Total file size: 23,024,766 bytes
-Total transferred file size: 23,024,766 bytes
-Literal data: 23,024,766 bytes
-Matched data: 0 bytes
-File list size: 0
-File list generation time: 0.001 seconds
-File list transfer time: 0.000 seconds
-Total bytes sent: 23,030,712
-Total bytes received: 154
-
-sent 23,030,712 bytes  received 154 bytes  903,171.22 bytes/sec
-total size is 23,024,766  speedup is 1.00
-~/src/timelapse_scripts ~
-Fetching origin
-no updates
-~/src/timelapse_scripts ~
-Fetching origin
-sending incremental file list
-hawaii-20200916-07-30-02.jpg
-         32,768   0%    0.00kB/s    0:00:00        1,605,632  34%    1.48MB/s    0:00:01        2,654,208  57%    1.22MB/s    0:00:01  no updates
-      3,801,088  82%    1.17MB/s    0:00:00        4,611,129 100%    1.19MB/s    0:00:03 (xfr#1, to-chk=4/5)
-hawaii-20200916-07-32-01.jpg
-         32,768   0%   51.28kB/s    0:01:29          262,144   5%  255.74kB/s    0:00:16        1,376,256  29%  643.06kB/s    0:00:05        2,359,296  51%  721.35kB/s    0:00:03        3,407,872  74%  773.05kB/s    0:00:01        4,456,448  96%  950.79kB/s    0:00:00        4,598,214 100%  792.38kB/s    0:00:05 (xfr#2, to-chk=3/5)
-hawaii-20200916-07-34-01.jpg
-         32,768   0%   79.60kB/s    0:00:57  
