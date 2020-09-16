@@ -9,7 +9,7 @@ pushd ${timelapse_src}
 . ./config
 
 # command line arg to force a deploy
-deploy_force=${1}
+deploy_force=${1:-0}
 
 function detemplate_copy_cron {
 	sed "s|CRON_TIME_STRING|${copy_cron_time_string}|" copy_crontab.template | \
@@ -44,7 +44,7 @@ function detemplate_runlog_cron {
 	checkin_script="${timelapse_src}/checkin.sh"
 	sed "s|CRON_TIME_STRING|${run_cron_time_string}|" runlog_update_cron.templte | \
 		sed "s|LOG_PATH|${timelapse_src}|g" | \
-		sed "s|CHECKIN_SCRIPT_PATH|${checkin_script}|" > timelapse-deploycron 
+		sed "s|CHECKIN_SCRIPT_PATH|${checkin_script}|" > timelapse-checkincron 
 }
 
 
@@ -52,6 +52,8 @@ function deploy_cronfiles {
 	sudo mv timelapse-copycron ${SENDER_CRONFILE_PATH}
 	sudo mv timelapse-snapshotcron ${SNAPSHOT_CRONFILE_PATH}
 	sudo mv timelapse-deploycron ${DEPLOY_CRONFILE_PATH}
+	sudo mv timelapse-checkincron ${CHECKIN_CRONFILE_PATH}
+
 	sudo chmod 0755 /etc/cron.d/*
 	sudo chown root:root /etc/cron.d/*
 }
