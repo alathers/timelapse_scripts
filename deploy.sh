@@ -57,6 +57,7 @@ if [ ${behind} -eq 0 ]; then
 	detemplate_snapshot_cron
 	detemplate_deploy_cron
 	generate_report
+	sudo deploy_cronfiles
 	# remove them then push the sums!
 	git add remote_filesums
 	git commit -m "Checksums from $(hostname) on $(date)"
