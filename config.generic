@@ -9,6 +9,8 @@ remoteuser=
 # Hosts
 remotehost=
 
+remoteport=
+
 # FileSystem Paths
 SENDER_CRONFILE_PATH='/etc/cron.d/timelapse-copycron'
 SNAPSHOT_CRONFILE_PATH='/etc/cron.d/timelapse-snapshotcron'
