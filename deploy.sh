@@ -88,10 +88,6 @@ if [ ${behind} -eq 0 ] || [ ${deploy_force} -eq 1 ]; then
 	git commit -m "Checksums from $(hostname) on $(date)"
 	git push
 
-	# Actually try to force myself to run twice whenever I run!
-	${deploy_script} 1
-
-
 else
 	echo "no updates"
 fi
