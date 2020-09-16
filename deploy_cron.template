@@ -1,0 +1,6 @@
+# This job should test for updates and auto deploy
+
+CRON_TIME_STRING DEPLOY_SCRIPT_PATH
+
+## Do I need some form of cleanup script?
+#55 * * * * /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh

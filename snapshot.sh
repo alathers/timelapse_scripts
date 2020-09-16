@@ -2,11 +2,11 @@
 
 
 # Just a basic "take a good photo" and name it something sane
-project='test'
+project='hawaii'
 timestamp=`date +%Y%m%d-%H-%M-%S`
 ## In case the camera isn't "pointing up"
 rotation='--rotation 180'
-image_path="/home/pi/"
+image_path="/home/pi/images"
 
 
 /usr/bin/raspistill -q 100 -ex auto -awb auto ${rotation} -o ${image_path}/${project}-${timestamp}.jpg
