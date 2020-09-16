@@ -1,0 +1,26 @@
+~/src/timelapse_scripts ~
+------ 
+
+
+Sep 16 06:45:01 hi-picam cron[269]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 16 06:51:01 hi-picam cron[269]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 16 06:51:01 hi-picam cron[269]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 16 06:53:01 hi-picam cron[269]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 16 06:53:01 hi-picam cron[269]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 16 06:54:01 hi-picam cron[269]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 16 06:54:01 hi-picam cron[269]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 16 06:56:01 hi-picam cron[269]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 16 06:56:01 hi-picam cron[269]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 16 07:27:01 hi-picam cron[269]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 16 07:28:01 hi-picam cron[269]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 16 07:55:01 hi-picam cron[269]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 16 07:56:01 hi-picam cron[269]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 16 07:56:43 hi-picam cron[259]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 16 08:00:01 hi-picam cron[259]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 16 08:00:01 hi-picam cron[259]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 16 08:01:01 hi-picam cron[259]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 16 08:01:01 hi-picam cron[259]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+
+
+------ 
+Already up to date.
