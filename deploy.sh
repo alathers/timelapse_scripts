@@ -84,7 +84,7 @@ if [ ${behind} -eq 0 ] || [ ${deploy_force} -eq 1 ]; then
 	generate_report
 	deploy_cronfiles
 	# remove them then push the sums!
-	git add remote_filesums
+	git add remote_filesums runlog
 	git commit -m "Checksums from $(hostname) on $(date)"
 	git push
 
