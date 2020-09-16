@@ -1,20 +1,20 @@
 ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
 9a540ba9b899be0a667ff3c6fd8adb37  /home/pi/src/timelapse_scripts/config
 46f40257886fd97f17f65496849bc493  /home/pi/src/timelapse_scripts/config.generic
-8c2870dd2e10f5bdf4929950151d37da  /home/pi/src/timelapse_scripts/copy_crontab.template
+444197e90e9746b62ba842617387ee95  /home/pi/src/timelapse_scripts/copy_crontab.template
 0dc0eae240018212c8848627b93348f9  /home/pi/src/timelapse_scripts/crontab.snap
-7fe69e607c5a52c42dcf1fa356dad8da  /home/pi/src/timelapse_scripts/deploy_cron.template
+8e3bda3ac95c0bee87fd93d1030ea53e  /home/pi/src/timelapse_scripts/deploy_cron.template
 b150009e6966c54f49ceec44a5181f4f  /home/pi/src/timelapse_scripts/deploy.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
-9ca7547529417edf713b0e12a814ed1b  /home/pi/src/timelapse_scripts/remote_filesums
-231e518f83fa0908ee5e0fd241b1924b  /home/pi/src/timelapse_scripts/snapshot_crontab.template
+5383c57a3dee78ab6036840e1cbd64b1  /home/pi/src/timelapse_scripts/remote_filesums
+2a657bbea2721e2343392adc6cb5722a  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
-0c8e3f2c31495c8bcae1a8845443bad7  /home/pi/src/timelapse_scripts/timelapse-copycron
-28ad605a038978327d21c6dc3d4e8161  /home/pi/src/timelapse_scripts/timelapse-deploycron
+d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/timelapse-copycron
+54bcb14c11de39cfac975fb07815e450  /home/pi/src/timelapse_scripts/timelapse-deploycron
 7b17ee40bd09bd5f87a19ba0a4a36f2c  /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
 5abb7948dc6f46dab7d793fc250f5aed  /home/pi/src/timelapse_scripts/timelapse.sh
-388caa72bd3d33aefda515b157b512dc  /home/pi/src/timelapse_scripts/timelapse-snapshotcron
+4889d56daa44f563f2ed93735ae19b49  /home/pi/src/timelapse_scripts/timelapse-snapshotcron
 3a5e51c0972f410ea8cb68132f913c07  /home/pi/src/timelapse_scripts/timelapse-usb.sh
 f64a4a45211198ca8a4396b32030c7f6  /home/pi/src/timelapse_scripts/usbRotateAndCrop.sh
 ---
