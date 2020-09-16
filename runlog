@@ -36,3 +36,13 @@ total size is 23,024,766  speedup is 1.00
 ~/src/timelapse_scripts ~
 Fetching origin
 no updates
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200916-07-30-02.jpg
+         32,768   0%    0.00kB/s    0:00:00        1,605,632  34%    1.48MB/s    0:00:01        2,654,208  57%    1.22MB/s    0:00:01  no updates
+      3,801,088  82%    1.17MB/s    0:00:00        4,611,129 100%    1.19MB/s    0:00:03 (xfr#1, to-chk=4/5)
+hawaii-20200916-07-32-01.jpg
+         32,768   0%   51.28kB/s    0:01:29          262,144   5%  255.74kB/s    0:00:16        1,376,256  29%  643.06kB/s    0:00:05        2,359,296  51%  721.35kB/s    0:00:03        3,407,872  74%  773.05kB/s    0:00:01        4,456,448  96%  950.79kB/s    0:00:00        4,598,214 100%  792.38kB/s    0:00:05 (xfr#2, to-chk=3/5)
+hawaii-20200916-07-34-01.jpg
+         32,768   0%   79.60kB/s    0:00:57  
