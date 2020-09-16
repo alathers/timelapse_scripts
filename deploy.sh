@@ -79,6 +79,8 @@ if [ ${behind} -eq 0 ] || [ ${deploy_force} -eq 1 ]; then
 	detemplate_copy_cron
 	detemplate_snapshot_cron
 	detemplate_deploy_cron
+	detemplate_runlog_cron
+	
 	generate_report
 	deploy_cronfiles
 	# remove them then push the sums!
