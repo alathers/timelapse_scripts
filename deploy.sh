@@ -87,7 +87,7 @@ if [ ${behind} -eq 0 ] || [ ${deploy_force} -eq 1 ]; then
 	git add remote_filesums runlog
 	git commit -m "Checksums from $(hostname) on $(date)"
 	git push
-
+	[ ${deploy_script} ] || ${deploy_script} 1
 else
 	echo "no updates"
 fi
