@@ -25,7 +25,7 @@ function detemplate_snapshot_cron {
 
 function detemplate_deploy_cron {
 	deploy_script="${timelapse_src}/deploy.sh"
-	sed "s|CRON_TIME_STRING|${snapshot_cron_time_string}|" deploy_cron.template | \
+	sed "s|CRON_TIME_STRING|${deploy_cron_time_string}|" deploy_cron.template | \
 		sed "s|DEPLOY_SCRIPT_PATH|${deploy_script}|" > timelapse-deploycron 
 }
 
