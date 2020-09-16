@@ -1,4 +1,4 @@
-Wed 16 Sep 2020 07:37:26 AM HST
+Wed 16 Sep 2020 07:37:46 AM HST
 50be00e36d0b542695b022dd9be3fbc0  /home/pi/src/timelapse_scripts/checkin.sh
 ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
 3c0cbb29491a2779abd713f2a2542f41  /home/pi/src/timelapse_scripts/config
@@ -10,11 +10,12 @@ ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
 6d7cb3da27d58176c50de38e07d5fe69  /home/pi/src/timelapse_scripts/README.md
-e932a3a77ab9a9b6ad1544da1ef4c0b2  /home/pi/src/timelapse_scripts/remote_filesums
+64217d3828bf5efef2d9a4296507b9ad  /home/pi/src/timelapse_scripts/remote_filesums
 1dce1f487991bc25db8b8ba648fbd6a5  /home/pi/src/timelapse_scripts/runlog
 26380729f9af23e2809792b83010d9f5  /home/pi/src/timelapse_scripts/runlog_update_cron.template
 017ad7e69f8cb34da30c1166dba0797e  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 befc99c7e9750dc858c76e6d7ee82cdc  /home/pi/src/timelapse_scripts/snapshot.sh
+915b25381a5827e298e9fc4f9787872e  /home/pi/src/timelapse_scripts/timelapse-checkincron
 349d57bea18e69059887e2a9fa572b83  /home/pi/src/timelapse_scripts/timelapse-copycron
 32ab62f2bb4fba1c357b714d277e47cf  /home/pi/src/timelapse_scripts/timelapse-deploycron
 7b17ee40bd09bd5f87a19ba0a4a36f2c  /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
