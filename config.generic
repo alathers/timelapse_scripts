@@ -29,3 +29,6 @@ snapshot_cron_time_string="*/2 6-18 * * *"
 
 # Deploy cron
 deploy_cron_time_string="*/5 * * * *"
+
+# runlog cron
+run_cron_time_string="15 * * * *"
