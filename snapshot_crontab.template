@@ -1,6 +1,6 @@
 # This job should snap a single photo
 
-CRON_TIME_STRING SNAPSHOT_SCRIPT_PATH
+CRON_TIME_STRING pi SNAPSHOT_SCRIPT_PATH
 
 ## Do I need some form of cleanup script?
 #55 * * * * /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
