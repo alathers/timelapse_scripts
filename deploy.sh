@@ -8,7 +8,7 @@ pushd ${timelapse_src}
 
 
 function detemplate_copy_cron {
-	cat copy_crontab.template | sed "s/CRON_TIME_STRING/${copy_cron_time_string}/" | \
+	sed "s/CRON_TIME_STRING/${copy_cron_time_string}/" copy_crontab.template | \
 		sed "s|RSYNC_PATH|${rsync_path}|" | \
 		sed "s|LOCAL_PATH|${local_filepath}|" | \
 		sed "s/REMOTE_USER/${remoteuser}/" | \
@@ -19,13 +19,13 @@ function detemplate_copy_cron {
 
 function detemplate_snapshot_cron {
 	snapshot_script="${timelapse_src}/snapshot.sh"
-	cat snapshot_crontab.template | sed "s/CRON_TIME_STRING/${snapshot_cron_time_string}/" | \
+	sed "s|CRON_TIME_STRING|${snapshot_cron_time_string}|" snapshot_crontab.template | \
 		sed "s|SNAPSHOT_SCRIPT_PATH|${snapshot_script}|" >  timelapse-snapshotcron 
 }
 
 function detemplate_deploy_cron {
 	deploy_script="${timelapse_src}/deploy.sh"
-	cat deploy_crontab.template | sed "s/CRON_TIME_STRING/${snapshot_cron_time_string}/" | \
+	cat deploy_crontab.template | sed "s|CRON_TIME_STRING|${snapshot_cron_time_string}|" | \
 		sed "s|DEPLOY_SCRIPT_PATH|${deploy_script}|" > timelapse-deploycron 
 }
 
