@@ -282,3 +282,21 @@ Sep 18 15:12:01 raspberrypi cron[261]: (*system*timelapse-copycron) ERROR (Synta
 
 ------ 
 Already up to date.
+[master bc57180] Updating Runlog
+ 2 files changed, 27 insertions(+), 11 deletions(-)
+~/src/timelapse_scripts ~
+------ 
+
+
+Sep 18 15:01:01 raspberrypi cron[255]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 18 15:01:02 raspberrypi cron[255]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 18 15:02:01 raspberrypi cron[255]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 18 15:02:01 raspberrypi cron[255]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 18 15:06:02 raspberrypi cron[254]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 18 15:06:02 raspberrypi cron[254]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+Sep 18 15:12:01 raspberrypi cron[261]: (*system*timelapse-deploycron) ERROR (Missing newline before EOF, this crontab file will be ignored)
+Sep 18 15:12:01 raspberrypi cron[261]: (*system*timelapse-copycron) ERROR (Syntax error, this crontab file will be ignored)
+
+
+------ 
+Already up to date.
