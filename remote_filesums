@@ -1,22 +1,22 @@
-Sun 20 Sep 2020 09:00:29 AM HST
+Sun 20 Sep 2020 09:02:17 AM HST
 eb71d56dfa72fdeabe27a7e2638998c9  /home/pi/src/timelapse_scripts/checkin.sh
 ad9461106f6f73a1eabc830886b5ecbf  /home/pi/src/timelapse_scripts/concatVideos.sh
 3c0cbb29491a2779abd713f2a2542f41  /home/pi/src/timelapse_scripts/config
 779cffc421ed0952c8def620e8794d31  /home/pi/src/timelapse_scripts/config.generic
-577baa6db60c925d4c2e3f4817f0de75  /home/pi/src/timelapse_scripts/copy_crontab.template
+e1e0b7afcf19ffb69374d713d379676c  /home/pi/src/timelapse_scripts/copy_crontab.template
 0dc0eae240018212c8848627b93348f9  /home/pi/src/timelapse_scripts/crontab.snap
 322f8b52179b91f0f30fd9c74be6e9a4  /home/pi/src/timelapse_scripts/deploy_cron.template
 d047efe991cfceefaee5204271aa10bb  /home/pi/src/timelapse_scripts/deploy.sh
 8c16666ae6c159876a0ba63099614381  /home/pi/src/timelapse_scripts/LICENSE
 46120c0187127aeb15007126fa6569de  /home/pi/src/timelapse_scripts/makeDailyVideo.sh
 6d7cb3da27d58176c50de38e07d5fe69  /home/pi/src/timelapse_scripts/README.md
-4319db229063b080f0de8bf8d3b6318d  /home/pi/src/timelapse_scripts/remote_filesums
+b246003730714fb894d8a5da142b97f6  /home/pi/src/timelapse_scripts/remote_filesums
 d41d8cd98f00b204e9800998ecf8427e  /home/pi/src/timelapse_scripts/runlog
 26380729f9af23e2809792b83010d9f5  /home/pi/src/timelapse_scripts/runlog_update_cron.template
 017ad7e69f8cb34da30c1166dba0797e  /home/pi/src/timelapse_scripts/snapshot_crontab.template
 ef2f032cb523b77acd832673cd69c2dd  /home/pi/src/timelapse_scripts/snapshot.sh
 915b25381a5827e298e9fc4f9787872e  /home/pi/src/timelapse_scripts/timelapse-checkincron
-179aae876bf9affb985da27d43930f3c  /home/pi/src/timelapse_scripts/timelapse-copycron
+bb0098eb509f583bb706fe920a6b3fb3  /home/pi/src/timelapse_scripts/timelapse-copycron
 49afa583b9c9eb33613b03c5b1920a8b  /home/pi/src/timelapse_scripts/timelapse-deploycron
 7b17ee40bd09bd5f87a19ba0a4a36f2c  /home/pi/src/timelapse_scripts/timelapse-housekeeping.sh
 5abb7948dc6f46dab7d793fc250f5aed  /home/pi/src/timelapse_scripts/timelapse.sh
