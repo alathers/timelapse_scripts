@@ -5,4 +5,5 @@ CRON_TIME_STRING pi (RSYNC_PATH --remove-source-files --progress --stats -rltDv 
 
 # HULK SMASH rsync during evenings; they can resume some other time
 CRON_KILL_TIME_STRING root PKILL -9 rsync >> LOG_PATH/runlog
-20 0 * * * /sbin/reboot -n >> LOG_PATH/runlog
+20 0 * * * root /sbin/reboot -n >> LOG_PATH/runlog
+
