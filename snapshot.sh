@@ -8,5 +8,6 @@ timestamp=`date +%Y%m%d-%H-%M-%S`
 rotation='--rotation 180'
 image_path="/home/pi/images"
 
+[ -d ${image_path} ] || mkdir -p ${image_path}
 
 /usr/bin/raspistill -q 100 -ex auto -awb auto ${rotation} -o ${image_path}/${project}-${timestamp}.jpg

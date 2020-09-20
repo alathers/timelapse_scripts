@@ -3,3 +3,4 @@
 CRON_TIME_STRING pi DEPLOY_SCRIPT_PATH >> LOG_PATH/runlog
 
 5 3 * * * pi echo "Issuing Nightly checking force deploy" && DEPLOY_SCRIPT_PATH 1 >> LOG_PATH/runlog
+
