@@ -1232,3 +1232,209 @@ Fetching origin
 ------ 
 no updates
 Already up to date.
+[master b79b428] Updating Runlog
+ 1 file changed, 177 insertions(+)
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200922-08-10-01.jpg
+         32,768   0%    0.00kB/s    0:00:00        2,392,064  52%    2.21MB/s    0:00:00  no updates
+      4,259,840  93%    1.98MB/s    0:00:00        4,540,075 100%    1.98MB/s    0:00:02 (xfr#1, to-chk=3/4)
+hawaii-20200922-08-14-04.jpg
+         32,768   0%  186.05kB/s    0:00:24        1,933,312  41%    1.83MB/s    0:00:01        4,259,840  91%    2.02MB/s    0:00:00        4,675,135 100%    1.94MB/s    0:00:02 (xfr#2, to-chk=2/4)
+hawaii-20200922-08-16-01.jpg
+         32,768   0%  103.23kB/s    0:00:45        1,277,952  26%    1.20MB/s    0:00:02        2,916,352  61%    1.36MB/s    0:00:01        4,358,144  92%    1.34MB/s    0:00:00        4,735,037 100%    1.14MB/s    0:00:03 (xfr#3, to-chk=1/4)
+hawaii-20200922-08-18-01.jpg
+         32,768   0%   35.05kB/s    0:02:16          327,680   6%  320.00kB/s    0:00:14        1,474,560  30%  719.28kB/s    0:00:04        2,981,888  61%  969.05kB/s    0:00:01        4,161,536  86% 1005.19kB/s    0:00:00        4,823,151 100%  954.24kB/s    0:00:04 (xfr#4, to-chk=0/4)
+
+Number of files: 4 (reg: 4)
+Number of created files: 4 (reg: 4)
+Number of regular files transferred: 4
+Total file size: 18,773,398 bytes
+Total transferred file size: 18,773,398 bytes
+Literal data: 18,773,398 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 18,778,251
+Total bytes received: 127
+
+sent 18,778,251 bytes  received 127 bytes  1,211,508.26 bytes/sec
+total size is 18,773,398  speedup is 1.00
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200922-08-20-01.jpg
+         32,768   0%    0.00kB/s    0:00:00        2,031,616  43%    1.88MB/s    0:00:01        3,964,928  85%    1.83MB/s    0:00:00        4,645,649 100%    1.89MB/s    0:00:02 (xfr#1, to-chk=4/5)
+hawaii-20200922-08-22-01.jpg
+no updates
+         32,768   0%   82.47kB/s    0:00:56        1,277,952  27%    1.16MB/s    0:00:02        2,490,368  53%    1.15MB/s    0:00:01        3,899,392  83%    1.20MB/s    0:00:00        4,686,067 100%    1.31MB/s    0:00:03 (xfr#2, to-chk=3/5)
+hawaii-20200922-08-24-01.jpg
+         32,768   0%   93.29kB/s    0:00:49        1,572,864  33%    1.45MB/s    0:00:02        3,145,728  67%    1.46MB/s    0:00:01        4,521,984  96%    1.41MB/s    0:00:00        4,685,150 100%    1.43MB/s    0:00:03 (xfr#3, to-chk=2/5)
+hawaii-20200922-08-26-02.jpg
+         32,768   0%  551.72kB/s    0:00:08        1,343,488  28%    1.22MB/s    0:00:02        2,916,352  61%    1.32MB/s    0:00:01        4,390,912  92%    1.34MB/s    0:00:00        4,731,439 100%    1.35MB/s    0:00:03 (xfr#4, to-chk=1/5)
+hawaii-20200922-08-28-01.jpg
+         32,768   0%  135.59kB/s    0:00:33        1,081,344  23%    1.02MB/s    0:00:03        2,818,048  60%    1.34MB/s    0:00:01        4,456,448  96%    1.40MB/s    0:00:00        4,621,495 100%    1.40MB/s    0:00:03 (xfr#5, to-chk=0/5)
+
+Number of files: 5 (reg: 5)
+Number of created files: 5 (reg: 5)
+Number of regular files transferred: 5
+Total file size: 23,369,800 bytes
+Total transferred file size: 23,369,800 bytes
+Literal data: 23,369,800 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 23,375,834
+Total bytes received: 154
+
+sent 23,375,834 bytes  received 154 bytes  1,335,770.74 bytes/sec
+total size is 23,369,800  speedup is 1.00
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200922-08-30-01.jpg
+         32,768   0%    0.00kB/s    0:00:00        2,162,688  46%    2.03MB/s    0:00:01  no updates
+      4,161,536  90%    1.95MB/s    0:00:00        4,616,718 100%    1.93MB/s    0:00:02 (xfr#1, to-chk=4/5)
+hawaii-20200922-08-32-01.jpg
+         32,768   0%  119.85kB/s    0:00:39        1,703,936  36%    1.62MB/s    0:00:01        4,063,232  85%    1.92MB/s    0:00:00        4,731,620 100%    1.92MB/s    0:00:02 (xfr#2, to-chk=3/5)
+hawaii-20200922-08-34-01.jpg
+         32,768   0%   89.14kB/s    0:00:53        1,048,576  21% 1021.96kB/s    0:00:03        3,375,104  70%    1.60MB/s    0:00:00        4,785,030 100%    1.65MB/s    0:00:02 (xfr#3, to-chk=2/5)
+hawaii-20200922-08-36-01.jpg
+         32,768   0%   42.27kB/s    0:01:49          884,736  19%  863.14kB/s    0:00:04        2,785,280  59%    1.33MB/s    0:00:01        4,656,114 100%    1.60MB/s    0:00:02 (xfr#4, to-chk=1/5)
+hawaii-20200922-08-38-01.jpg
+         32,768   0%   41.13kB/s    0:01:53          491,520  10%  470.59kB/s    0:00:08        2,359,296  50%    1.10MB/s    0:00:02        4,390,912  93%    1.36MB/s    0:00:00        4,710,225 100%    1.28MB/s    0:00:03 (xfr#5, to-chk=0/5)
+
+Number of files: 5 (reg: 5)
+Number of created files: 5 (reg: 5)
+Number of regular files transferred: 5
+Total file size: 23,499,707 bytes
+Total transferred file size: 23,499,707 bytes
+Literal data: 23,499,707 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 23,505,773
+Total bytes received: 154
+
+sent 23,505,773 bytes  received 154 bytes  1,621,098.41 bytes/sec
+total size is 23,499,707  speedup is 1.00
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200922-08-40-02.jpg
+         32,768   0%    0.00kB/s    0:00:00        2,359,296  48%    2.19MB/s    0:00:01  no updates
+      3,866,624  80%    1.77MB/s    0:00:00        4,819,683 100%    1.86MB/s    0:00:02 (xfr#1, to-chk=4/5)
+hawaii-20200922-08-42-01.jpg
+         32,768   0%   75.12kB/s    0:01:04          983,040  20%  949.55kB/s    0:00:04        3,112,960  64%    1.46MB/s    0:00:01        4,718,592  97%    1.46MB/s    0:00:00        4,844,794 100%    1.40MB/s    0:00:03 (xfr#2, to-chk=3/5)
+hawaii-20200922-08-44-01.jpg
+         32,768   0%  108.47kB/s    0:00:42        1,703,936  36%    1.60MB/s    0:00:01        3,211,264  68%    1.51MB/s    0:00:00        4,685,434 100%    1.55MB/s    0:00:02 (xfr#3, to-chk=2/5)
+hawaii-20200922-08-46-01.jpg
+         32,768   0%   34.71kB/s    0:02:16           65,536   1%   61.66kB/s    0:01:16        2,457,600  51%    1.09MB/s    0:00:02        4,128,768  86%    1.25MB/s    0:00:00        4,761,625 100%    1.25MB/s    0:00:03 (xfr#4, to-chk=1/5)
+hawaii-20200922-08-48-01.jpg
+         32,768   0%   63.12kB/s    0:01:15        1,507,328  31%    1.38MB/s    0:00:02        2,818,048  58%    1.29MB/s    0:00:01        3,866,624  80%    1.20MB/s    0:00:00        4,795,830 100%    1.32MB/s    0:00:03 (xfr#5, to-chk=0/5)
+
+Number of files: 5 (reg: 5)
+Number of created files: 5 (reg: 5)
+Number of regular files transferred: 5
+Total file size: 23,907,366 bytes
+Total transferred file size: 23,907,366 bytes
+Literal data: 23,907,366 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 23,913,528
+Total bytes received: 154
+
+sent 23,913,528 bytes  received 154 bytes  1,542,818.19 bytes/sec
+total size is 23,907,366  speedup is 1.00
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200922-08-50-02.jpg
+         32,768   0%    0.00kB/s    0:00:00        2,392,064  50%    2.25MB/s    0:00:01        4,489,216  94%    2.12MB/s    0:00:00        4,763,507 100%    2.18MB/s    0:00:02 (xfr#1, to-chk=4/5)
+hawaii-20200922-08-52-01.jpg
+         32,768   0%  347.83kB/s    0:00:13  no updates
+      1,540,096  32%    1.46MB/s    0:00:02        3,637,248  76%    1.73MB/s    0:00:00        4,756,000 100%    1.82MB/s    0:00:02 (xfr#2, to-chk=3/5)
+hawaii-20200922-08-54-01.jpg
+         32,768   0%   63.62kB/s    0:01:14        1,048,576  22% 1009.86kB/s    0:00:03        2,981,888  62%    1.41MB/s    0:00:01        4,747,677 100%    1.66MB/s    0:00:02 (xfr#3, to-chk=2/5)
+hawaii-20200922-08-56-01.jpg
+         32,768   0%   43.78kB/s    0:01:45          655,360  14%  638.72kB/s    0:00:06        3,047,424  65%    1.44MB/s    0:00:01        4,641,039 100%    1.64MB/s    0:00:02 (xfr#4, to-chk=1/5)
+hawaii-20200922-08-58-01.jpg
+         32,768   0%   46.31kB/s    0:01:42          688,128  14%  672.00kB/s    0:00:06        3,211,264  67%    1.53MB/s    0:00:01        4,792,301 100%    1.59MB/s    0:00:02 (xfr#5, to-chk=0/5)
+
+Number of files: 5 (reg: 5)
+Number of created files: 5 (reg: 5)
+Number of regular files transferred: 5
+Total file size: 23,700,524 bytes
+Total transferred file size: 23,700,524 bytes
+Literal data: 23,700,524 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 23,706,638
+Total bytes received: 154
+
+sent 23,706,638 bytes  received 154 bytes  1,896,543.36 bytes/sec
+total size is 23,700,524  speedup is 1.00
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200922-09-00-01.jpg
+         32,768   0%    0.00kB/s    0:00:00        2,326,528  51%    2.16MB/s    0:00:00        4,456,448  99%    2.08MB/s    0:00:00        4,481,308 100%    2.10MB/s    0:00:02 (xfr#1, to-chk=4/5)
+hawaii-20200922-09-02-01.jpg
+         32,768   0%    1.30MB/s    0:00:03  no updates
+      2,326,528  50%    2.22MB/s    0:00:00        4,565,560 100%    2.29MB/s    0:00:01 (xfr#2, to-chk=3/5)
+hawaii-20200922-09-04-01.jpg
+         32,768   0%   34.63kB/s    0:02:09          131,072   2%  125.00kB/s    0:00:34        2,260,992  50%    1.06MB/s    0:00:02        3,964,928  88%    1.25MB/s    0:00:00        4,505,356 100%    1.33MB/s    0:00:03 (xfr#3, to-chk=2/5)
+hawaii-20200922-09-06-02.jpg
+         32,768   0%  140.35kB/s    0:00:32        2,424,832  53%    2.29MB/s    0:00:00        4,547,158 100%    2.30MB/s    0:00:01 (xfr#4, to-chk=1/5)
+hawaii-20200922-09-08-01.jpg
+         32,768   0%   35.63kB/s    0:02:06          262,144   5%  255.74kB/s    0:00:16        2,129,920  46%    1.00MB/s    0:00:02        4,456,448  98%    1.40MB/s    0:00:00        4,533,767 100%    1.40MB/s    0:00:03 (xfr#5, to-chk=0/5)
+
+Number of files: 5 (reg: 5)
+Number of created files: 5 (reg: 5)
+Number of regular files transferred: 5
+Total file size: 22,633,149 bytes
+Total transferred file size: 22,633,149 bytes
+Literal data: 22,633,149 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 22,638,999
+Total bytes received: 154
+
+sent 22,638,999 bytes  received 154 bytes  1,968,622.00 bytes/sec
+total size is 22,633,149  speedup is 1.00
+~/src/timelapse_scripts ~
+~/src/timelapse_scripts ~
+------ 
+
+
+Fetching origin
+
+
+------ 
+no updates
+Already up to date.
