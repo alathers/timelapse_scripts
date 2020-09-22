@@ -1,0 +1,68 @@
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200918-15-10-48.jpg
+         32,768   0%    0.00kB/s    0:00:00        1,802,240  39%    1.66MB/s    0:00:01  no updates
+      3,244,032  70%    1.51MB/s    0:00:00        4,619,534 100%    1.66MB/s    0:00:02 (xfr#1, to-chk=1/2)
+hawaii-20200920-09-08-01.jpg
+         32,768   0%   49.84kB/s    0:01:18          655,360  16%  622.57kB/s    0:00:05        2,457,600  62%    1.15MB/s    0:00:01        3,276,800  82%    1.03MB/s    0:00:00        3,951,074 100%    1.07MB/s    0:00:03 (xfr#2, to-chk=0/2)
+
+Number of files: 2 (reg: 2)
+Number of created files: 2 (reg: 2)
+Number of regular files transferred: 2
+Total file size: 8,570,608 bytes
+Total transferred file size: 8,570,608 bytes
+Literal data: 8,570,608 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 8,572,858
+Total bytes received: 73
+
+sent 8,572,858 bytes  received 73 bytes  1,143,057.47 bytes/sec
+total size is 8,570,608  speedup is 1.00
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+~/src/timelapse_scripts ~
+------ 
+
+
+Fetching origin
+
+
+------ 
+no updates
+Already up to date.
