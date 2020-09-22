@@ -1055,3 +1055,180 @@ no updates
 
 
 ------ 
+[master 2dbba59] Updating Runlog
+ 1 file changed, 153 insertions(+)
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200922-06-50-02.jpg
+         32,768   0%    0.00kB/s    0:00:00        2,359,296  52%    2.17MB/s    0:00:00        3,735,552  82%    1.73MB/s    0:00:00  no updates
+      4,526,027 100%    1.77MB/s    0:00:02 (xfr#1, to-chk=29/30)
+hawaii-20200922-06-52-01.jpg
+         32,768   0%   73.06kB/s    0:01:01        1,277,952  28%    1.19MB/s    0:00:02        3,276,800  72%    1.50MB/s    0:00:00        4,520,602 100%    1.48MB/s    0:00:02 (xfr#2, to-chk=28/30)
+hawaii-20200922-06-54-01.jpg
+         32,768   0%   36.74kB/s    0:02:02          262,144   5%  250.98kB/s    0:00:16        1,900,544  42%  899.66kB/s    0:00:02        4,128,768  91%    1.28MB/s    0:00:00        4,519,530 100%    1.18MB/s    0:00:03 (xfr#3, to-chk=27/30)
+hawaii-20200922-06-56-01.jpg
+         32,768   0%   51.53kB/s    0:01:27        1,212,416  26%    1.09MB/s    0:00:02        2,818,048  62%    1.30MB/s    0:00:01        4,521,984  99%    1.37MB/s    0:00:00        4,527,477 100%    1.37MB/s    0:00:03 (xfr#4, to-chk=26/30)
+hawaii-20200922-06-58-01.jpg
+         32,768   0%  336.84kB/s    0:00:13        1,671,168  36%    1.51MB/s    0:00:01        3,440,640  76%    1.58MB/s    0:00:00        4,522,362 100%    1.66MB/s    0:00:02 (xfr#5, to-chk=25/30)
+hawaii-20200922-07-00-01.jpg
+         32,768   0%   53.78kB/s    0:01:23          557,056  12%  529.18kB/s    0:00:07        2,654,208  58%    1.23MB/s    0:00:01        4,532,186 100%    1.45MB/s    0:00:02 (xfr#6, to-chk=24/30)
+hawaii-20200922-07-02-01.jpg
+         32,768   0%   33.51kB/s    0:02:13           98,304   2%   96.00kB/s    0:00:45        1,769,472  39%  862.28kB/s    0:00:03        3,506,176  77%    1.11MB/s    0:00:00        4,500,437 100%    1.20MB/s    0:00:03 (xfr#7, to-chk=23/30)
+hawaii-20200922-07-04-01.jpg
+         32,768   0%   53.33kB/s    0:01:23          819,200  18%  791.30kB/s    0:00:04        2,555,904  56%    1.21MB/s    0:00:01        4,489,216  99%    1.42MB/s    0:00:00        4,500,066 100%    1.42MB/s    0:00:03 (xfr#8, to-chk=22/30)
+hawaii-20200922-07-06-01.jpg
+         32,768   0%    1.56MB/s    0:00:02        1,802,240  39%    1.69MB/s    0:00:01        3,538,944  78%    1.67MB/s    0:00:00        4,510,850 100%    1.72MB/s    0:00:02 (xfr#9, to-chk=21/30)
+hawaii-20200922-07-08-01.jpg
+         32,768   0%   63.49kB/s    0:01:10          983,040  21%  952.38kB/s    0:00:03        2,818,048  62%    1.32MB/s    0:00:01        4,522,679 100%    1.43MB/s    0:00:03 (xfr#10, to-chk=20/30)
+hawaii-20200922-07-10-01.jpg
+         32,768   0%   31.50kB/s    0:02:22           65,536   1%   62.26kB/s    0:01:11        1,835,008  40%  872.44kB/s    0:00:03        3,670,016  81%    1.13MB/s    0:00:00        4,525,958 100%    1.23MB/s    0:00:03 (xfr#11, to-chk=19/30)
+hawaii-20200922-07-12-01.jpg
+         32,768   0%   69.11kB/s    0:01:05        1,114,112  24%    1.02MB/s    0:00:03        2,949,120  65%    1.34MB/s    0:00:01        4,536,572 100%    1.47MB/s    0:00:02 (xfr#12, to-chk=18/30)
+hawaii-20200922-07-14-01.jpg
+         32,768   0%   36.00kB/s    0:02:04          360,448   7%  328.36kB/s    0:00:12        2,293,760  50%    1.05MB/s    0:00:02        4,292,608  94%    1.32MB/s    0:00:00        4,530,105 100%    1.33MB/s    0:00:03 (xfr#13, to-chk=17/30)
+hawaii-20200922-07-16-02.jpg
+         32,768   0%  177.78kB/s    0:00:25        1,736,704  38%    1.63MB/s    0:00:01        3,702,784  81%    1.71MB/s    0:00:00        4,533,880 100%    1.75MB/s    0:00:02 (xfr#14, to-chk=16/30)
+hawaii-20200922-07-18-01.jpg
+         32,768   0%   70.02kB/s    0:01:04        1,114,112  24%    1.06MB/s    0:00:03        3,112,960  68%    1.48MB/s    0:00:00        4,536,941 100%    1.61MB/s    0:00:02 (xfr#15, to-chk=15/30)
+hawaii-20200922-07-20-01.jpg
+         32,768   0%   44.32kB/s    0:01:41          655,360  14%  620.76kB/s    0:00:06        2,621,440  57%    1.23MB/s    0:00:01        4,529,586 100%    1.44MB/s    0:00:03 (xfr#16, to-chk=14/30)
+hawaii-20200922-07-22-01.jpg
+         32,768   0%   31.94kB/s    0:02:20           65,536   1%   63.05kB/s    0:01:10        2,031,616  44%  976.86kB/s    0:00:02        3,964,928  87%    1.25MB/s    0:00:00        4,528,226 100%    1.30MB/s    0:00:03 (xfr#17, to-chk=13/30)
+hawaii-20200922-07-24-02.jpg
+         32,768   0%   99.07kB/s    0:00:45        1,310,720  28%    1.23MB/s    0:00:02        3,244,032  71%    1.53MB/s    0:00:00        4,529,812 100%    1.61MB/s    0:00:02 (xfr#18, to-chk=12/30)
+hawaii-20200922-07-26-01.jpg
+         32,768   0%   45.52kB/s    0:01:39          688,128  15%  643.68kB/s    0:00:05        2,555,904  56%    1.19MB/s    0:00:01        4,489,216  98%    1.41MB/s    0:00:00        4,544,426 100%    1.41MB/s    0:00:03 (xfr#19, to-chk=11/30)
+hawaii-20200922-07-28-01.jpg
+         32,768   0%  500.00kB/s    0:00:09        1,867,776  41%    1.76MB/s    0:00:01        3,866,624  85%    1.80MB/s    0:00:00        4,546,239 100%    1.82MB/s    0:00:02 (xfr#20, to-chk=10/30)
+hawaii-20200922-07-30-01.jpg
+         32,768   0%   84.66kB/s    0:00:53        1,310,720  28%    1.25MB/s    0:00:02        3,276,800  71%    1.56MB/s    0:00:00        4,557,087 100%    1.66MB/s    0:00:02 (xfr#21, to-chk=9/30)
+hawaii-20200922-07-32-02.jpg
+         32,768   0%   49.31kB/s    0:01:31          819,200  17%  785.08kB/s    0:00:04        2,785,280  60%    1.30MB/s    0:00:01        4,567,439 100%    1.47MB/s    0:00:02 (xfr#22, to-chk=8/30)
+hawaii-20200922-07-34-02.jpg
+         32,768   0%   33.93kB/s    0:02:13          163,840   3%  158.42kB/s    0:00:27        2,129,920  46% 1019.11kB/s    0:00:02        4,063,232  89%    1.26MB/s    0:00:00        4,552,693 100%    1.32MB/s    0:00:03 (xfr#23, to-chk=7/30)
+hawaii-20200922-07-36-01.jpg
+         32,768   0%  126.48kB/s    0:00:35        1,540,096  33%    1.45MB/s    0:00:02        3,375,104  74%    1.59MB/s    0:00:00        4,542,463 100%    1.69MB/s    0:00:02 (xfr#24, to-chk=6/30)
+hawaii-20200922-07-38-01.jpg
+         32,768   0%   55.94kB/s    0:01:19          917,504  20%  881.89kB/s    0:00:04        2,949,120  65%    1.40MB/s    0:00:01        4,483,294 100%    1.52MB/s    0:00:02 (xfr#25, to-chk=5/30)
+hawaii-20200922-07-40-02.jpg
+         32,768   0%   39.07kB/s    0:01:57          458,752   9%  448.00kB/s    0:00:09        2,490,368  53%    1.19MB/s    0:00:01        4,325,376  93%    1.37MB/s    0:00:00        4,621,079 100%    1.40MB/s    0:00:03 (xfr#26, to-chk=4/30)
+hawaii-20200922-07-42-01.jpg
+         32,768   0%  191.62kB/s    0:00:23        1,507,328  33%    1.36MB/s    0:00:02        3,244,032  72%    1.50MB/s    0:00:00        4,478,169 100%    1.55MB/s    0:00:02 (xfr#27, to-chk=3/30)
+hawaii-20200922-07-44-01.jpg
+         32,768   0%   44.02kB/s    0:01:44          557,056  12%  530.73kB/s    0:00:07        2,523,136  54%    1.17MB/s    0:00:01        4,358,144  94%    1.36MB/s    0:00:00        4,631,040 100%    1.39MB/s    0:00:03 (xfr#28, to-chk=2/30)
+hawaii-20200922-07-46-56.jpg
+         32,768   0%  206.45kB/s    0:00:22        1,703,936  36%    1.57MB/s    0:00:01        3,670,016  79%    1.72MB/s    0:00:00        4,605,476 100%    1.76MB/s    0:00:02 (xfr#29, to-chk=1/30)
+hawaii-20200922-07-48-02.jpg
+         32,768   0%   68.67kB/s    0:01:06        1,048,576  22% 1024.00kB/s    0:00:03        3,145,728  67%    1.50MB/s    0:00:00        4,630,072 100%    1.58MB/s    0:00:02 (xfr#30, to-chk=0/30)
+
+Number of files: 30 (reg: 30)
+Number of created files: 30 (reg: 30)
+Number of regular files transferred: 30
+Total file size: 136,192,773 bytes
+Total transferred file size: 136,192,773 bytes
+Literal data: 136,192,773 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.002 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 136,227,803
+Total bytes received: 909
+
+sent 136,227,803 bytes  received 909 bytes  1,804,353.80 bytes/sec
+total size is 136,192,773  speedup is 1.00
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200922-07-50-01.jpg
+         32,768   0%    0.00kB/s    0:00:00        2,424,832  53%    2.23MB/s    0:00:00        3,899,392  85%    1.76MB/s    0:00:00        4,534,961 100%    1.86MB/s    0:00:02 (xfr#1, to-chk=4/5)
+hawaii-20200922-07-52-01.jpg
+         32,768   0%  110.73kB/s    0:00:41  no updates
+        491,520  10%  478.56kB/s    0:00:08        2,654,208  57%    1.25MB/s    0:00:01        3,964,928  86%    1.24MB/s    0:00:00        4,610,084 100%    1.17MB/s    0:00:03 (xfr#2, to-chk=3/5)
+hawaii-20200922-07-54-01.jpg
+         32,768   0%   45.26kB/s    0:01:41          819,200  17%  756.14kB/s    0:00:05        2,359,296  51%    1.07MB/s    0:00:02        3,801,088  82%    1.14MB/s    0:00:00        4,604,715 100%    1.11MB/s    0:00:03 (xfr#3, to-chk=2/5)
+hawaii-20200922-07-56-01.jpg
+         32,768   0%   41.78kB/s    0:01:47          622,592  13%  608.00kB/s    0:00:06        2,195,456  48%    1.02MB/s    0:00:02        3,768,320  83%    1.18MB/s    0:00:00        4,506,439 100%    1.23MB/s    0:00:03 (xfr#4, to-chk=1/5)
+hawaii-20200922-07-58-01.jpg
+         32,768   0%   73.56kB/s    0:01:00          851,968  18%  817.29kB/s    0:00:04        2,424,832  53%    1.13MB/s    0:00:01        3,964,928  87%    1.24MB/s    0:00:00        4,510,235 100%    1.27MB/s    0:00:03 (xfr#5, to-chk=0/5)
+
+Number of files: 5 (reg: 5)
+Number of created files: 5 (reg: 5)
+Number of regular files transferred: 5
+Total file size: 22,766,434 bytes
+Total transferred file size: 22,766,434 bytes
+Literal data: 22,766,434 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 22,772,316
+Total bytes received: 154
+
+sent 22,772,316 bytes  received 154 bytes  1,301,284.00 bytes/sec
+total size is 22,766,434  speedup is 1.00
+~/src/timelapse_scripts ~
+Fetching origin
+no updates
+~/src/timelapse_scripts ~
+Fetching origin
+sending incremental file list
+hawaii-20200922-08-00-01.jpg
+         32,768   0%    0.00kB/s    0:00:00        2,228,224  47%    2.09MB/s    0:00:01        3,702,784  79%    1.72MB/s    0:00:00  no updates
+      4,682,453 100%    1.72MB/s    0:00:02 (xfr#1, to-chk=4/5)
+hawaii-20200922-08-02-02.jpg
+         32,768   0%   58.08kB/s    0:01:21          491,520  10%  461.10kB/s    0:00:09        2,392,064  50%    1.12MB/s    0:00:02        3,702,784  78%    1.14MB/s    0:00:00        4,745,937 100%    1.20MB/s    0:00:03 (xfr#2, to-chk=3/5)
+hawaii-20200922-08-04-02.jpg
+         32,768   0%   47.62kB/s    0:01:41          393,216   8%  375.73kB/s    0:00:11        1,966,080  40%  930.23kB/s    0:00:03        3,407,872  70%    1.04MB/s    0:00:01        4,718,592  97%    1.09MB/s    0:00:00        4,842,718 100%    1.11MB/s    0:00:04 (xfr#3, to-chk=2/5)
+hawaii-20200922-08-06-01.jpg
+         32,768   0%  299.07kB/s    0:00:16        1,015,808  20%  967.80kB/s    0:00:04        2,654,208  52%    1.25MB/s    0:00:01        4,456,448  88%    1.38MB/s    0:00:00        5,037,543 100%    1.41MB/s    0:00:03 (xfr#4, to-chk=1/5)
+hawaii-20200922-08-08-01.jpg
+         32,768   0%   91.43kB/s    0:00:50          884,736  19%  854.60kB/s    0:00:04        2,457,600  53%    1.16MB/s    0:00:01        3,997,696  86%    1.25MB/s    0:00:00        4,630,058 100%    1.31MB/s    0:00:03 (xfr#5, to-chk=0/5)
+
+Number of files: 5 (reg: 5)
+Number of created files: 5 (reg: 5)
+Number of regular files transferred: 5
+Total file size: 23,938,709 bytes
+Total transferred file size: 23,938,709 bytes
+Literal data: 23,938,709 bytes
+Matched data: 0 bytes
+File list size: 0
+File list generation time: 0.001 seconds
+File list transfer time: 0.000 seconds
+Total bytes sent: 23,944,871
+Total bytes received: 154
+
+sent 23,944,871 bytes  received 154 bytes  1,294,325.68 bytes/sec
+total size is 23,938,709  speedup is 1.00
+~/src/timelapse_scripts ~
+~/src/timelapse_scripts ~
+------ 
+
+
+Fetching origin
+
+
+------ 
+no updates
+Already up to date.
